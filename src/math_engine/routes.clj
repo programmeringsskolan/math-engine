@@ -40,7 +40,7 @@
 (def start-page "<h1>This is the start page</h1>")
 
 (defroutes routes
-  (GET "/" [] (send-page start-page))
+  (GET "/" [] start-page)
 
   (GET "/linear-equation" [] (send-page (create-linear-equation)))
   (POST "/linear-equation" request (send-page (verify-linear-equation-solution request)))

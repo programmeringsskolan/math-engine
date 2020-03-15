@@ -4,9 +4,9 @@ Create and solve math problems
 
 ## Setup
 
-[Install Docker for Mac](https://hub.docker.com/editions/community/docker-ce-desktop-mac/)
+[Install Docker for Mac](https://docs.docker.com/docker-for-mac/install/)
 
-[Install Docker for Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows/)
+[Install Docker for Windows](https://docs.docker.com/docker-for-windows/install/)
 
 Go to the root folder and run
 

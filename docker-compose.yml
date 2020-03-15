@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    command: "ring server-headless 8000"
+    working_dir: /usr/src/app
+    volumes:
+      - .:/usr/src/app
