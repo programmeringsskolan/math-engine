@@ -1,32 +1,17 @@
-# math-engine
+# Math engine
 
-FIXME: description
+Create and solve math problems
 
-## Installation
+## Setup
 
-Download from http://example.com/FIXME.
+[Install Docker for Mac](https://hub.docker.com/editions/community/docker-ce-desktop-mac/)
+[Install Docker for Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows/)
 
-## Usage
+Go to the root folder and run
 
-FIXME: explanation
-
-    $ java -jar math-engine-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+```
+docker-compose up
+```
 
 ## License
 
