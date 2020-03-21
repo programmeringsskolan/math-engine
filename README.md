@@ -8,6 +8,12 @@ Create and solve math problems
 
 [Install Docker for Windows](https://docs.docker.com/docker-for-windows/install/)
 
+For windows users:
+1. Make sure that this project is located on the C drive.
+2. Click on the Docker Desktop symbol.
+3. In the menu click on Settings.
+4. Go to Resources, FILE SHARING and choose C drive. Then click on Apply & Restart.
+
 Go to the root folder and run
 
 ```

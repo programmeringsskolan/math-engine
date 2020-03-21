@@ -8,4 +8,4 @@ services:
     command: "ring server-headless 8000"
     working_dir: /usr/src/app
     volumes:
-      - .:/usr/src/app
+      - ./src:/usr/src/app/src
